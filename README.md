@@ -1,6 +1,6 @@
 # CS300Module8
 CS300Module8
-
+eli
 What was the problem you were solving in the projects for this course?
 I had to implement a data structure to fulfill reuiremnets of a fake client. Some tasks I needed to implement involved creating a menu and prompting the user based on different scenarios.
 
